@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @wbruec
 - 👀 I’m interested in decentralized web and defi
 - 🌱 I’m currently learning ethereum & tooling (Solidity, truffle, OpenZellepin etc.), Phython + JupyterNotebooks
-- 💞️ I’m just learing
-- 📫 How to reach me ...
+- 💞️ I’m just learning stuff :)
+- 📫 How to reach me ...tbd
 
 <!---
 wbruec/wbruec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
